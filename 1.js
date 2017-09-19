@@ -1,0 +1,1 @@
+insist(allData,"Aha! said Piglet", ["Auckland", "East"]);
